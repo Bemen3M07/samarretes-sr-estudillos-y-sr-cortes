@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:empty/flutter/cat/bemen3/m7/t_shirt_app.dart';  // Asegúrate de importar correctamente
+import 'package:empty/flutter/cat/bemen3/m7/Samarretes/t_shirt_app.dart';  // Asegúrate de importar correctamente
 
 void main() {
   runApp(const MyApp());

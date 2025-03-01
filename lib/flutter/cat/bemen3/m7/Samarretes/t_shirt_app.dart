@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:empty/flutter/cat/bemen3/m7/t_shirt_calculator_logic.dart';
+import 'package:empty/flutter/cat/bemen3/m7/Samarretes/t_shirt_calculator_logic.dart';
 
 class TShirtCalculatorScreen extends StatefulWidget {
   const TShirtCalculatorScreen({super.key});
